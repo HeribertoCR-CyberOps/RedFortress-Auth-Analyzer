@@ -1,0 +1,6 @@
+Mar 2 08:12:01 redghost sshd[1234]: Accepted publickey for admin from 10.0.0.5 port 50123 ssh2
+Mar 2 08:15:22 redghost sshd[1235]: Failed password for root from 192.168.1.50 port 44321 ssh2
+Mar 2 08:15:25 redghost sshd[1235]: Failed password for root from 192.168.1.50 port 44321 ssh2
+Mar 2 08:15:29 redghost sshd[1235]: Failed password for root from 192.168.1.50 port 44321 ssh2
+Mar 2 08:20:10 redghost sshd[1240]: Failed password for admin from 203.0.113.4 port 22 ssh2
+Mar 2 08:22:05 redghost sshd[1245]: Accepted password for user from 192.168.1.15 port 33214 ssh2
