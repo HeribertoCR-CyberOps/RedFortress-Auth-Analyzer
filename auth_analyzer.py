@@ -3,7 +3,7 @@ import json
 import datetime
 
 def analyze_and_output():
-    log_file = "dummy_syslog.log"
+    log_file = "/home/node/.n8n/ssp_mvp_workspace/RedFortress-Auth-Analyzer/dummy_syslog.log"
     threshold = 3
     pattern = r"Failed password for .* from (\d+\.\d+\.\d+\.\d+)"
     
